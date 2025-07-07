@@ -2,14 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da computação na Unisinos. Sou apaixonado por tecnologia e por me desafiar todos os dias com ferramentas.
+Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da computação na Unisinos. Sou apaixonado por tecnologia e por me desafiar todos os dias com coisas novas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/arthur-primo/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin&logoSource=feather"
         />
     </a>
 </p>
@@ -52,19 +52,19 @@ Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Nest.js" 
+    title="Nest.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
@@ -124,11 +124,51 @@ Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <br/>
