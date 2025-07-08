@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da computação na Unisinos. Sou apaixonado por tecnologia e por me desafiar todos os dias com coisas novas.
+Me chamo Arthur Smiths Primo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da computação na Unisinos. Sou apaixonado por tecnologia e por me desafiar todos os dias com novas tecnologias.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/arthur-primo/">
